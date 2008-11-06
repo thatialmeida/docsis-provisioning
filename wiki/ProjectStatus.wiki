@@ -11,4 +11,4 @@
 || *GatewayDaemon* || planned ||
 || *[DocsisCompiler DOCSIS config file compiler]* || alpha ||
 || *[TrafficLogger]* || planned ||
-|| *[ TrafficStatisticsGenerator]* || planned ||
+|| *[TrafficStatisticsGenerator]* || planned ||
