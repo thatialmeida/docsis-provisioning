@@ -32,3 +32,8 @@ A task that should be run on a seperate machine which logs all end-user connecti
 
 == TrafficStatisticsGenerator ==
 A task supplementary to the TrafficLogger which generates network-wide statistics, detects abnormal behaviour, graphs network vital signs etc.
+
+== Other software used ==
+[http://www.isc.org/index.pl?/sw/dhcp/ ISC DHCP]
+[http://ipset.netfiler.org ipset]
+[http://www.syslog.org/ syslog]
