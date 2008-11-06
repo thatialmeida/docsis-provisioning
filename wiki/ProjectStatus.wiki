@@ -1,1 +1,14 @@
 #summary A module-by-module project status report
+
+
+
+|| *[PersistantStorage Persistant storage]* || pre-alpha ||
+|| *DataProxy* || planned ||
+|| *ProvisioningDaemon* || pre-alpha ||
+|| *[TftpServer TFTP Server]* || beta ||
+|| *[LoggerProcess Logging backend]* || beta ||
+|| *[DhcpOMAPI OMAPI DHCP interface]* || planned ||
+|| *GatewayDaemon* || planned ||
+|| *[DocsisCompiler DOCSIS config file compiler]* || alpha ||
+|| *[TrafficLogger]* || planned ||
+|| *[ TrafficStatisticsGenerator]* || planned ||
