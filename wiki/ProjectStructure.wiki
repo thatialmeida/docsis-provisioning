@@ -1,0 +1,13 @@
+#summary A top-level view of the project structure.
+
+
+= Modules =
+
+== Persistant storage ==
+The project uses an RDBMS to store all its data. PostgreSQL 8.3 was chosen, and some of its unique features were used, so at this moment it is the only RDBMS that may be used.
+Look at the [DatabaseStructure here].
+
+== DataProxy ==
+== ProvisioningDaemon ==
+== GatewayDaemon ==
+== DOCSIS config file compiler ==
