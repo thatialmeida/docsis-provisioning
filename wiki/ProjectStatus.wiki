@@ -3,6 +3,7 @@
 
 
 || *[PersistantStorage Persistant storage]* || pre-alpha ||
+|| *GuiFrontend* || pre-alpha ||
 || *DataProxy* || planned ||
 || *ProvisioningDaemon* || pre-alpha ||
 || *[TftpServer TFTP Server]* || beta ||
